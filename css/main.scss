@@ -13,6 +13,8 @@
     color: #c300f9;
 }
 .navbar-collapse{
+    /*The new Bootstrap Grid is built with the Flexbox system, 
+        so for alignment you have to use a Flexbox property*/
     justify-content: flex-end;
 }
 .navbar-toggler{
